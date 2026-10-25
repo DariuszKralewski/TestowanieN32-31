@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ErrorLogger.cs" />
     <Compile Include="HtmlFormatter.cs" />
     <Compile Include="Podstawy\CustomerController.cs" />
     <Compile Include="Podstawy\Math.cs" />
