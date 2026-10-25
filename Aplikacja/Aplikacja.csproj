@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DemeritPointCalculator.cs" />
     <Compile Include="ErrorLogger.cs" />
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="HtmlFormatter.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="Podstawy\Reservation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stack.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
